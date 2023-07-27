@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<!-- saved from url=(0075)https://www.gazimetal.com.tr/surdurulebilirlik/kisisel-verilerin-korunmasi/ -->
+<html lang="en-US" style="" class="js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>GAZİ METAL |  | Kişisel Verilerin Korunması</title>
+<meta name="description" content="">
+<meta name="author" content="gazimetal - gazimetal.com">
+<meta name="keywords" content="gazimetal">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<script type="text/javascript" async="" src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/js"></script><script async="" src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/analytics.js.indir"></script><script src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/jquery.min.js.indir"></script>
+<script src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/modernizr.js.indir"></script>
+
+<link rel="shortcut icon" type="image/x-icon" href="https://www.gazimetal.com.tr/assets/img/favicon.png">
+
+<link rel="stylesheet" type="text/css" href="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/font-awesome.min.css">
+<link href="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/css" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/reset.css">
+<link rel="stylesheet" type="text/css" href="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/fancybox.css">
+<link rel="stylesheet" type="text/css" href="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/grid-system.css">
+<link rel="stylesheet" type="text/css" href="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/style.css">
+<link rel="stylesheet" type="text/css" href="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/responsive.css">
+<link rel="stylesheet" href="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/jquery-ui.css">
+<link rel="stylesheet" href="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/bootstrap5.1.min.css">
+<link rel="stylesheet" href="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/Article-List.css">
+<link rel="stylesheet" href="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/cookiealert.css">
+
+<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-91163013-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+<style type="text/css">.fancybox-margin{margin-right:17px;}</style></head>
+<body>
+
+<div class="cookiealert" role="alert" style="position:fixed;padding:.25rem 1.25rem;margin-bottom:1rem;border:1px solid transparent;border-radius:1.25rem;">
+<div style="text-align:left!important"><b>ÇEREZ POLİTİKASI</b> 🍪 <br>İnternet sitemizden en verimli şekilde faydalanabilmeniz için çerez kullanıyoruz. Çerez kullanılmasını tercih etmezseniz tarayıcınızın ayarlarından çerezleri silebilir ya da engelleyebilirsiniz. <br> <a style="all: revert; color: white; font-size:12px" href="https://www.gazimetal.com.tr/iletisim/kisisel-verilerin-korunmasi/cerez-politikasi/" target="_blank"><u>Detaylı Bilgi</u></a><button type="button" class="btn btn-primary btn-sm acceptcookies" style="text-align: right!important; font-size: 12px;background-color:transparent;border-color:transparent; color:rgb(0, 199, 71)"><u>Onaylıyorum</u></button></div>
+</div>
+
+
+<div class="se-pre-con" style="display: none;"></div>
+<script>
+		function search(e){
+			if (e.which == 13) {
+
+				var SearchKey = $('.search-text').val();
+				if (SearchKey.length > 2) {
+
+					window.location = $('.search-text').data('search-url') + "?lang=tr&q=" + encodeURIComponent(SearchKey);
+					return false;
+				}
+
+			} else {
+				return true;
+			}
+         }
+
+    </script>
+
+<header>
+<div class="header-content">
+
+<div class="header-top">
+<a href="https://www.gazimetal.com.tr/surdurulebilirlik/kisisel-verilerin-korunmasi/#">GAZIMETAL ONLINE</a>
+</div>
+
+<div class="header-bottom">
+
+<div class="logo">
+<a href="https://www.gazimetal.com.tr/">
+<img src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/logo.png" width="112" height="63">
+</a>
+
+<a class="mbl-logo" href="https://www.gazimetal.com.tr/">
+<img src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/mbl-logo.png" width="112" height="63">
+</a>
+</div>
+
+<nav>
+<div class="mbl-btn">
+<i class="fa fa-bars" aria-hidden="true"></i>
+</div>
+<ul class="btn-box">
+<li class="sub">
+<a href="https://www.gazimetal.com.tr/surdurulebilirlik/kisisel-verilerin-korunmasi/#">KURUMSAL</a>
+<ul>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/kurumsal/tarihce/">TARİHÇE</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/kurumsal/yonetim/">YÖNETİM</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/kurumsal/degerlerimiz/">DEĞERLERİMİZ</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/kurumsal/genel-mudurluk/">GENEL MÜDÜRLÜK</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/kurumsal/haddehane/">HADDEHANE</a></li>
+</ul>
+</li>
+<li class="sub">
+<a href="https://www.gazimetal.com.tr/surdurulebilirlik/kisisel-verilerin-korunmasi/#">ÜRÜNLER</a>
+<ul>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/urunler/sicak-haddelenmis-celikler/">SICAK HADDELENMİŞ ÇELİKLER </a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/urunler/sicak-asitlenmis-celikler/">SICAK ASİTLENMİŞ ÇELİKLER </a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/urunler/soguk-haddelenmis-celikler/">SOĞUK HADDELENMİŞ ÇELİKLER</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/urunler/uretim-hatlari/">ÜRETİM HATLARI</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/urunler/celik-kaliteleri/">ÇELİK KALİTELERİ</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/urunler/celik-servis-merkezleri/">ÇELİK SERVİS MERKEZLERİ</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/urunler/satis-ve-pazarlama/">SATIŞ VE PAZARLAMA</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/urunler/tedarik-zinciri/">TEDARİK ZİNCİRİ</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/urunler/stok-listesi/">STOK LİSTESİ</a></li>
+<li class="bold"><a target="_self" href="https://www.gazimetal.com.tr/urunler/e-katalog/">E-KATALOG</a></li>
+<li class="banner"><strong><a href="https://www.gazimetal.com.tr/urunler/celik-secici">ÇELİK SEÇİCİ <span>İLE ÇELİK BULUN</span></a></strong></li>
+</ul>
+</li>
+<li class="sub">
+<a href="https://www.gazimetal.com.tr/surdurulebilirlik/kisisel-verilerin-korunmasi/#">SÜRDÜRÜLEBİLİRLİK</a>
+<ul>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/surdurulebilirlik/marka-oykusu/">MARKA ÖYKÜSÜ</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/surdurulebilirlik/celigi-kesfedin/">ÇELİĞİ KEŞFEDİN</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/surdurulebilirlik/odullerimiz/">ÖDÜLLERİMİZ</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/surdurulebilirlik/belgelerimiz/">BELGELERİMİZ</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/surdurulebilirlik/yatirimci-iliskiler/">YATIRIMCI İLİŞKİLER</a></li>
+<li class=""><a target="_blank" href="https://e-sirket.mkk.com.tr/esir/Dashboard.jsp#/sirketbilgileri/13852">BİLGİ TOPLUMU</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/surdurulebilirlik/kisisel-verilerin-korunmasi/">KİŞİSEL VERİLERİN KORUNMASI</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/surdurulebilirlik/tanitim-katalogu/">TANITIM KATALOĞU</a></li>
+</ul>
+</li>
+<li class="sub">
+<a href="https://www.gazimetal.com.tr/surdurulebilirlik/kisisel-verilerin-korunmasi/#">SOSYAL SORUMLULUK</a>
+<ul>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/sosyal-sorumluluk/egitim/">EĞİTİM</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/sosyal-sorumluluk/sivil-toplum/">SİVİL TOPLUM</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/sosyal-sorumluluk/cevre-ve-isg/">ÇEVRE VE İSG</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/sosyal-sorumluluk/sponsorluk/">SPONSORLUK</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/sosyal-sorumluluk/kultur-sanat/">KÜLTÜR &amp; SANAT</a></li>
+</ul>
+</li>
+<li class="sub">
+<a href="https://www.gazimetal.com.tr/surdurulebilirlik/kisisel-verilerin-korunmasi/#">KARİYER</a>
+<ul>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/kariyer/insan-kaynaklari/">İNSAN KAYNAKLARI</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/kariyer/egitim-programlari/">EĞİTİM PROGRAMLARI</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/kariyer/staj-imkanlari/">STAJ İMKANLARI</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/kariyer/acik-pozisyonlar/">AÇIK POZİSYONLAR</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/kariyer/online-is-basvuru-formu/">ONLINE İŞ BAŞVURU FORMU</a></li>
+</ul>
+</li>
+<li class="sub">
+<a href="https://www.gazimetal.com.tr/surdurulebilirlik/kisisel-verilerin-korunmasi/#">İLETİŞİM</a>
+<ul>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/iletisim/genel-mudurluk/">GENEL MÜDÜRLÜK &amp; CSM</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/iletisim/haddehane/">HADDEHANE</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/iletisim/iletisim-rehberi/">İLETİŞİM REHBERİ</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/iletisim/medya-iliskileri/">MEDYA İLİŞKİLERİ</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/iletisim/genel-bilgi-formu/">GENEL BİLGİ FORMU</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/iletisim/musteri-iliskileri/">MÜŞTERİ İLİŞKİLERİ FORMU</a></li>
+<li class=""><a target="_self" href="https://www.gazimetal.com.tr/iletisim/kisisel-verilerin-korunmasi/">KİŞİSEL VERİLERİN KORUNMASI</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+
+<div class="quick-menu">
+<ul>
+<li>
+<a href="https://www.gazimetal.com.tr/en/">EN</a>
+</li>
+
+<li class="search">
+<div class="click-btn">
+<i class="fa fa-search" aria-hidden="true"></i>
+</div>
+<div class="click-box">
+<input type="text" class="search-text" placeholder="Arama..." onfocus="this.placeholder = &#39;&#39;" onblur="this.placeholder = &#39;Arama...&#39;" data-search-url="/arama/" onkeypress="return search(event)">
+</div>
+</li>
+
+<li>
+<div class="click-btn">
+<i class="fa fa-share-alt" aria-hidden="true"></i>
+</div>
+<div class="click-box">
+<ul>
+<li>
+<a target="_blank" href="https://www.facebook.com/GAZIMETALAS/">
+<i class="fa fa-facebook-square" aria-hidden="true"></i>
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.instagram.com/gazimetalas">
+<i class="fa fa-instagram" aria-hidden="true"></i>
+</a>
+</li>
+
+<li>
+<a target="_blank" href="https://www.linkedin.com/company/gazi-metal">
+<i class="fa fa-linkedin-square" aria-hidden="true"></i>
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.gazimetal.com.tr/surdurulebilirlik/kisisel-verilerin-korunmasi/">
+<i class="fa fa-vimeo-square" aria-hidden="true"></i>
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.youtube.com/channel/UCE0dHmQWmf0L1ZvClBpHxoQ">
+<i class="fa fa-youtube-square" aria-hidden="true"></i>
+</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</header>
+<main>
+<div class="wrapper">
+
+<div class="page-content">
+<div class="page-right">
+<h2>KİŞİSEL VERİLERİN KORUNMASI</h2>
+<div class="pr-text">
+<p><iframe width="100%" height="1000" src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/viewer.html" allowfullscreen="" __idm_frm__="480"></iframe></p>
+<p>&nbsp;</p>
+</div>
+<div class="pr-video">
+</div>
+
+</div>
+
+<div class="page-left">
+
+<div class="nav-button"></div>
+
+<nav class="side-bar">
+<ul>
+<li class="">
+<a href="https://www.gazimetal.com.tr/surdurulebilirlik/marka-oykusu/">MARKA ÖYKÜSÜ</a>
+</li>
+<li class="">
+<a href="https://www.gazimetal.com.tr/surdurulebilirlik/celigi-kesfedin/">ÇELİĞİ KEŞFEDİN</a>
+</li>
+<li class="sub">
+<a href="https://www.gazimetal.com.tr/surdurulebilirlik/odullerimiz/">ÖDÜLLERİMİZ</a>
+<ul>
+<li class=""> <a href="https://www.gazimetal.com.tr/surdurulebilirlik/odullerimiz/iso-500/">ISO 500</a></li>
+<li class=""> <a href="https://www.gazimetal.com.tr/surdurulebilirlik/odullerimiz/fortune-500/">FORTUNE 500</a></li>
+<li class=""> <a href="https://www.gazimetal.com.tr/surdurulebilirlik/odullerimiz/anadolu-500/">ANADOLU 500</a></li>
+<li class=""> <a href="https://www.gazimetal.com.tr/surdurulebilirlik/odullerimiz/ihracatcilar-birligi/">İHRACATÇILAR BİRLİĞİ</a></li>
+<li class=""> <a href="https://www.gazimetal.com.tr/surdurulebilirlik/odullerimiz/sakaryanin-yildizlari/">SAKARYA'NIN YILDIZLARI</a></li>
+<li class=""> <a href="https://www.gazimetal.com.tr/surdurulebilirlik/odullerimiz/cevre/">ÇEVRESEL</a></li>
+</ul>
+</li>
+<li class="sub">
+<a href="https://www.gazimetal.com.tr/surdurulebilirlik/belgelerimiz/">BELGELERİMİZ</a>
+<ul>
+<li class=""> <a href="https://www.gazimetal.com.tr/surdurulebilirlik/belgelerimiz/iso-9001/">ISO 9001</a></li>
+<li class=""> <a href="https://www.gazimetal.com.tr/surdurulebilirlik/belgelerimiz/iso-14001/">ISO 14001</a></li>
+<li class=""> <a href="https://www.gazimetal.com.tr/surdurulebilirlik/belgelerimiz/iso-45001/">ISO 45001</a></li>
+<li class=""> <a href="https://www.gazimetal.com.tr/surdurulebilirlik/belgelerimiz/iso-50001/">ISO 50001</a></li>
+<li class=""> <a href="https://www.gazimetal.com.tr/surdurulebilirlik/belgelerimiz/ts-en-10111/">TS EN 10111</a></li>
+<li class=""> <a href="https://www.gazimetal.com.tr/surdurulebilirlik/belgelerimiz/ts-en-10130/">TS EN 10130</a></li>
+<li class=""> <a href="https://www.gazimetal.com.tr/surdurulebilirlik/belgelerimiz/ts-en-10209/">TS EN 10209</a></li>
+</ul>
+</li>
+<li class="">
+<a href="https://www.gazimetal.com.tr/surdurulebilirlik/yatirimci-iliskiler/">YATIRIMCI İLİŞKİLER</a>
+</li>
+<li class="">
+<a target="_blank" href="https://e-sirket.mkk.com.tr/esir/Dashboard.jsp#/sirketbilgileri/13852">BİLGİ TOPLUMU</a>
+</li>
+<li class="active">
+<a href="https://www.gazimetal.com.tr/surdurulebilirlik/kisisel-verilerin-korunmasi/">KİŞİSEL VERİLERİN KORUNMASI</a>
+</li>
+<li class="">
+<a href="https://www.gazimetal.com.tr/surdurulebilirlik/tanitim-katalogu/">TANITIM KATALOĞU</a>
+</li>
+</ul>
+</nav>
+
+<div class="pl-banner">
+<a href="https://www.youtube.com/embed/Xn_hi38inxU" class="popup-button" data-fancybox-type="iframe">
+<img src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/pagemenubottomfiximg.jpg" width="320" height="320">
+<div class="plb-text">
+Şirket Tanıtım Filmi
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</main>
+
+<footer>
+<div class="wrapper">
+
+<div class="footer-img">
+ <a href="https://www.gazimetal.com.tr/sosyal-sorumluluk/cevre-ve-isg/" target="_self">
+<img src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/alt-banner-turkce.jpg" width="1280" height="300" title="">
+<div class="fi-box">
+<div class="fi-title" style="font-size:30px;">
+</div>
+<div class="fi-text" style="font-size:px;">
+</div>
+</div>
+</a>
+</div>
+<div class="footer-container">
+
+<div class="footer-top">
+<div class="col-ft-4">
+<div class="footer-title">GAZİ METAL GENEL MÜDÜRLÜK &amp; ÇSM</div>
+<div class="address-box">
+<ul>
+<li>Barış Mah. 1804 Sokak No:6<br> 41400 Gebze / Kocaeli - Türkiye</li>
+<li><i class="fa fa-phone" aria-hidden="true"></i>+90 262 644 46 62 - 68 ( pbx )</li>
+<li><i class="fa fa-fax" aria-hidden="true"></i> +90 262 641 15 70</li>
+<li>
+<a href="mailto:iletisim@gazimetal.com.tr"><i class="fa fa-envelope" aria-hidden="true"></i> iletisim@gazimetal.com.tr</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-ft-4">
+<div class="footer-title">GAZİ METAL HADDEHANE </div>
+<div class="address-box">
+<ul>
+<li>Kabakoz Mah. OSB Küme Evleri Dış Kapı No:1 <br> 54500 Karasu / Sakarya - Türkiye</li>
+<li><i class="fa fa-phone" aria-hidden="true"></i> +90 264 888 38 38 ( pbx )</li>
+<li><i class="fa fa-fax" aria-hidden="true"></i> +90 264 718 86 63</li>
+<li>
+<a href="mailto:iletisim@gazimetal.com.tr"><i class="fa fa-envelope" aria-hidden="true"></i> iletisim@gazimetal.com.tr</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-ft-4">
+<div class="fm-right">
+<ul>
+<li>
+<a target="_blank" href="https://www.facebook.com/GAZIMETALAS/">
+<i class="fa fa-facebook-square" aria-hidden="true"></i>
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.instagram.com/gazimetalas">
+<i class="fa fa-instagram" aria-hidden="true"></i>
+</a>
+</li>
+
+<li>
+<a target="_blank" href="https://www.linkedin.com/company/gazi-metal">
+<i class="fa fa-linkedin-square" aria-hidden="true"></i>
+</a>
+</li>
+<li>
+<a target="_blank" href="https://www.gazimetal.com.tr/surdurulebilirlik/kisisel-verilerin-korunmasi/" "="">
+<i class="fa fa-vimeo-square" aria-hidden="true"></i>
+</a>
+ </li>
+<li>
+<a target="_blank" href="https://www.youtube.com/channel/UCE0dHmQWmf0L1ZvClBpHxoQ">
+<i class="fa fa-youtube-square" aria-hidden="true"></i>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer-middle">
+<div class="fm-left">
+
+<ul>
+<li><a href="https://www.gazimetal.com.tr/surdurulebilirlik/kisisel-verilerin-korunmasi/"><img width="140" height="87" src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/9001-18001.png"></a></li>
+<li><a href="https://www.gazimetal.com.tr/"><img width="140" height="87" src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/50001.png"></a></li>
+<li><a href="https://www.gazimetal.com.tr/surdurulebilirlik/kisisel-verilerin-korunmasi/"><img width="140" height="87" src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/iso.png"></a></li>
+<li><a href="https://www.gazimetal.com.tr/surdurulebilirlik/belgelerimiz/ts-en-10130/"><img width="140" height="87" src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/tse.png"></a></li>
+</ul>
+</div>
+<div class="fm-right">
+<a href="https://www.gazimetal.com.tr/">
+<img src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/footer-logo.png" width="140" height="87">
+</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="fb-right">
+<ul>
+<li><a href="https://www.gazimetal.com.tr/kurumsal/yasal-uyari/">Yasal Uyarı</a></li>
+<li>-</li>
+<li><a href="https://www.gazimetal.com.tr/kurumsal/site-haritasi/">Site Haritası</a></li>
+<li>-</li>
+<li><a href="https://www.gazimetal.com.tr/kurumsal/kullanim-sartlari/">Kullanım Şartları</a></li>
+<li>-</li>
+<li><a href="https://e-sirket.mkk.com.tr/esir/Dashboard.jsp#/sirketbilgileri/13852" target="_blank">Bilgi Toplumu Hizmetleri</a></li>
+<li>-</li>
+<li><a href="https://www.gazimetal.com.tr/iletisim/kisisel-verilerin-korunmasi/kvkk-politikasi/">KVKK</a></li>
+</ul>
+</div>
+<div class="fb-left">
+Copyright 2023 © <b>GAZİ METAL A.Ş.</b>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/jquery.fancybox.js.indir"></script>
+<script src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/owl.carousel.js.indir"></script>
+<script src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/jquery-validate-min.js.indir"></script>
+<script src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/jquery-ui.js.indir"></script>
+
+<script src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/bootstrap.min.js.indir"></script>
+<script src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/custom.js.indir" type="text/javascript"></script>
+<script src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/cookiealert.js.indir"></script>
+<script src="./GAZİ METAL _ _ Kişisel Verilerin Korunması_files/popper.min.js.indir" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+
+<script>
+ $(document).ready(function (){
+    $('.fancybox').attr('rel', 'gallery').fancybox({
+            type : "image", // force type of content to image
+            helpers: {
+                title: { type: 'inside' },
+                overlay: {
+                    opacity: 0.3
+                } // overlay
+            } // helpers
+    }); // fancybox
+}); // ready
+	 </script>
+
+</body></html>
