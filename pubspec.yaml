@@ -1,0 +1,67 @@
+name: flutter_deneme_1
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  youtube_player_flutter: ^8.1.2
+
+
+  syncfusion_flutter_pdfviewer: ^22.1.39
+
+  google_maps_flutter: ^2.0.12
+
+  webview_flutter: ^2.0.4
+
+  dio: ^5.2.1+1
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+      - assets/elma.png
+      - assets/furkan.png
+      - assets/gazi.png
+      - assets/gaziBir.jpg
+      - assets/gaziiki.jpg
+      - assets/gaziuc.jpg
+      - assets/gazi4.jpg
+      - assets/sıcak.jpg
+      - assets/kesfedin.png
+      - assets/ıso.jpg
+      - assets/fornute.jpg
+      - assets/anadolu.jpg
+      - assets/ihracatcılar.jpg
+      - assets/sakaryanın.png
+      - assets/cevresel.jpg
+      - assets/9001.jpg
+      - assets/10111.jpg
+      - assets/10130.jpg
+      - assets/10209.jpg
+      - assets/14001.jpg
+      - assets/45001.jpg
+      - assets/50001.jpg
+      - assets/yatırımcı.jpg
+      - assets/gazipdf.pdf
+      - assets/denemep.pdf
+      - assets/kisisel.pdf
+      - assets/kvkk.pdf
+      - assets/sicakhaddelenmis.jpg
+      - assets/sicakasitlenmis.jpg
+      - assets/sogukasitlenmis.jpg
